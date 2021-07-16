@@ -33,4 +33,4 @@ for n in fibonacci(100):
 2. IT Academy
 3. Technical University
 
-## **_English level: A2_**
+## _English level: A2_
